@@ -1,0 +1,12 @@
+pozycja,instrument,klasa_aktywow,zwrot_5_lat_proc,sredniorocznie_proc,wartosc_10000_zl,maks_spadek_proc,wartosc_2020,wartosc_2021,wartosc_2022,wartosc_2023,wartosc_2024,wartosc_2025,uwagi
+1,Alior Bank (ALR),Akcje GPW,648.9,49.6,74889,-65,10000,32233,20194,44985,52967,74889,z dywidendami
+2,XTB (XTB),Akcje GPW,528.8,44.4,62880,-37,,,,,,,z dywidendami
+3,mBank (MBK),Akcje GPW,492.4,42.7,59240,-69,,,,,,,z dywidendami
+4,Ethereum (ETH),Kryptowaluty,285.4,31.0,38537,-79,10000,53919,18998,32375,49288,38537,przeliczone USD/PLN NBP; maks. spadek w USD
+5,PKO BP (PKO),Akcje GPW,268.8,29.8,36875,-54,10000,15644,11329,18821,24129,36875,z dywidendami
+6,Bitcoin (BTC),Kryptowaluty,189.2,23.7,28915,-77,10000,17248,6682,15258,35153,28915,przeliczone USD/PLN NBP; maks. spadek w USD
+7,Srebro (XAG),Metale szlachetne,155.2,20.6,25523,-40,10000,9570,10613,9484,11993,25523,kontrakt COMEX przeliczony USD/PLN NBP
+8,Beta ETF mWIG40TR (ETFBM40TR),Fundusz (FIZ),132.4,18.4,23238,-39,10000,13538,10907,15503,16975,23238,portfelowy FIZ notowany na GPW
+9,Złoto (XAU),Metale szlachetne,125.5,17.7,22555,-20,10000,10534,11477,11633,15341,22555,cena NBP zł/g; maks. spadek w USD
+10,Obligacje EDO (seria I 2021),Obligacje skarbowe,49.1,8.3,14913,0,10000,10170,11065,13112,14109,14913,wyliczenie brutto: 1.70% w 1. roku potem CPI + 1 pkt proc.
+,Inflacja CPI (punkt odniesienia),,43.8,7.5,14376,,10000,10510,12023,13394,13876,14376,średnioroczna CPI GUS (2025 szacunkowo 3.6%)
