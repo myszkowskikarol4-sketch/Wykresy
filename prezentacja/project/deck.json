@@ -3,11 +3,12 @@
   "createdOnFiles": {"v": 1, "at": "2026-10-23T07:20:00Z"},
   "lists": "css",
   "title": "Top 10 inwestycji w Polsce 2021–2025",
-  "order": ["cover", "metodologia", "tabela", "wykres-slupkowy", "wykres-liniowy", "ryzyko", "klasy", "fundusze", "przegrani", "wnioski", "zrodla"],
+  "order": ["cover", "metodologia", "tabela", "wykres-slupkowy", "wykres-liniowy", "ryzyko", "klasy", "fundusze", "grupy-porownanie", "grupa-obligacje", "grupa-fio", "grupa-metale", "grupa-etf", "grupa-fiz", "grupa-akcje", "grupa-krypto", "przegrani", "wnioski", "zrodla"],
   "sections": {
     "s1": {"description": "Wstęp i założenia porównania", "start": "cover"},
-    "s2": {"description": "Ranking 10 najlepszych inwestycji: tabela i wykresy", "start": "tabela"},
+    "s2": {"description": "Ranking najlepszych inwestycji z rokiem 2026: tabela i wykresy", "start": "tabela"},
     "s3": {"description": "Ryzyko, klasy aktywów i fundusze", "start": "ryzyko"},
+    "s5": {"description": "Zalety i wady każdej grupy: ryzyko, czas trzymania, grupa docelowa", "start": "grupy-porownanie"},
     "s4": {"description": "Pułapki, wnioski dla doradcy i źródła", "start": "przegrani"}
   },
   "faces": {
