@@ -9,7 +9,7 @@ z tabelą, wykresem słupkowym i liniowym oraz omówieniem ryzyka.
 - `prezentacja/project/` — slajdy (`slides/*.html`) i indeks talii (`deck.json`)
 - `dane/top10_2021_2025.csv` — dane źródłowe do tabeli i wykresów
 
-Okres: 31.12.2020 – 31.12.2025, całkowite stopy zwrotu w PLN, przed podatkiem i kosztami.
+Okres: 31.12.2020 – 31.12.2025 oraz bieżący rok 2026 (od 1.01 do 21–23.10.2026), całkowite stopy zwrotu w PLN, przed podatkiem i kosztami.
 Źródła: NBP, Yahoo Finance, GPW Benchmark, GUS, obligacjeskarbowe.pl, analizy.pl, funduszowe.pl.
 
 Materiał edukacyjny — nie stanowi rekomendacji inwestycyjnej.
